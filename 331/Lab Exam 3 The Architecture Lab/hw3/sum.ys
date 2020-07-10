@@ -1,0 +1,45 @@
+#2172179 Veli Sahin YILDIRIM
+
+.pos 0
+init:
+	# Set up stack pointer
+	irmovq Stack, %rsp
+	# Execute main program
+	call Main
+	# Terminate
+	halt
+
+# Array of 4 elements + terminating 0
+	.align 8
+ele1:
+	.quad 0x00a
+	.quad ele2
+ele2:
+	.quad 0x0b0
+	.quad ele3
+ele3:
+	.quad 0xc00
+	.quad 0
+
+Main:   
+  	irmovq ele1,%rdi
+	# call sum
+    	call sum
+   	ret
+
+
+	#sum_list(list_ptr ls)
+sum:
+	irmovq $0, %rax         # sum = 0
+Test:	
+	andq %rdi, %rdi         # Test ls
+	je Done                 # If zero, goto Done
+Loop:
+	mrmovq (%rdi), %r11     # temp = ls->val
+	addq %r11, %rax         # sum += temp
+	mrmovq 8(%rdi), %rdi    # ls = ls->next
+	jmp Test                # 
+Done:
+    ret
+.pos 0x100
+Stack:	

@@ -1,0 +1,7 @@
+The text is Verbosity leads to unclear, inarticulate things.
+0 0 1 2 4 6
+5 10 290
+76 703
+cpghij
+2 3 5 1 6 4
+

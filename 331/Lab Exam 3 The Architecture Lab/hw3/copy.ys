@@ -1,0 +1,55 @@
+#2172179 Veli Sahin YILDIRIM
+
+.pos 0
+init:
+	# Set up stack pointer
+	irmovq Stack, %rsp
+	# Execute main program
+	call Main
+	# Terminate
+	halt
+
+.align 8
+# Source block
+src:
+	.quad 0x00a
+	.quad 0x0b0
+	.quad 0xc00
+# Destination block
+dest:
+	.quad 0x111
+	.quad 0x222
+	.quad 0x333
+
+Main:   
+  	irmovq src,%rdi
+	irmovq dest,%rsi
+	irmovq $3, %rdx
+	
+	# call copy_block
+    	call copy_block
+   	ret
+	
+
+	#copy_block(*src,*dst,len)
+
+copy_block:
+	irmovq $0, %rax		# result=0
+	irmovq $8, %r8		#sizeof(long)
+	irmovq $1, %r12		# 1
+	jmp Test
+	
+Loop:
+	mrmovq (%rdi), %r11 	# val = *src
+	addq %r8, %rdi		# src++
+	rmmovq %r11, (%rsi)	# *dest = val 
+	addq %r8, %rsi		# dest++
+	xorq %r11,%rax		# result ^= val
+Test:
+	subq %r12,%rdx		#len--;
+	jge Loop
+
+Done:
+    ret
+.pos 0x100
+Stack:	
