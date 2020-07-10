@@ -1,0 +1,440 @@
+A brand new game is starting!
+--0102------------
+00----------------
+03----------------
+--------04--------
+------051006------
+--------07--------
+------------------
+----------------09
+--------------08--
+-- START ROUND 1 --
+Berserk00(100) ATTACKED Tracer03(100)! (-10)
+Berserk01(100) ATTACKED Tracer02(100)! (-10)
+Tracer02(90) moved DOWN.
+Tracer03(90) moved DOWN.
+Ambusher04(100) ATTACKED Dummy10(1000)! (-25)
+Ambusher05(100) ATTACKED Dummy10(975)! (-25)
+Ambusher06(100) ATTACKED Dummy10(950)! (-25)
+Ambusher07(100) ATTACKED Dummy10(925)! (-25)
+Pacifist08(100) moved UP.
+Pacifist09(100) moved UP.
+-- END ROUND 1 --
+--01--------------
+00--02------------
+------------------
+03------04--------
+------051006------
+--------07--------
+----------------09
+--------------08--
+------------------
+-- START ROUND 2 --
+Berserk00(100) moved DOWN.
+Berserk01(100) moved DOWN.
+Tracer02(90) moved DOWN.
+Tracer03(90) moved DOWN.
+Ambusher04(100) ATTACKED Dummy10(900)! (-25)
+Ambusher05(100) ATTACKED Dummy10(875)! (-25)
+Ambusher06(100) ATTACKED Dummy10(850)! (-25)
+Ambusher07(100) ATTACKED Dummy10(825)! (-25)
+Pacifist08(100) moved UP.
+Pacifist09(100) moved UP.
+-- END ROUND 2 --
+------------------
+--01--------------
+00--02------------
+--------04--------
+03----051006------
+--------07------09
+--------------08--
+------------------
+------------------
+-- START ROUND 3 --
+Berserk00(100) moved DOWN.
+Berserk01(100) moved DOWN.
+Tracer02(90) moved DOWN.
+Tracer03(90) moved RIGHT.
+Ambusher04(100) ATTACKED Dummy10(800)! (-25)
+Ambusher05(100) ATTACKED Dummy10(775)! (-25)
+Ambusher06(100) ATTACKED Dummy10(750)! (-25)
+Ambusher07(100) ATTACKED Dummy10(725)! (-25)
+Pacifist08(100) moved UP.
+Pacifist09(100) moved UP.
+-- END ROUND 3 --
+------------------
+------------------
+--01--------------
+00--02--04--------
+--03--051006----09
+--------07----08--
+------------------
+------------------
+------------------
+-- START ROUND 4 --
+Berserk00(100) moved DOWN.
+Berserk01(100) moved DOWN.
+Tracer02(90) moved DOWN.
+Tracer03(90) ATTACKED Berserk00(100)! (-10)
+Ambusher04(100) ATTACKED Dummy10(700)! (-25)
+Ambusher05(100) ATTACKED Tracer02(90)! (-15)
+Ambusher06(100) ATTACKED Dummy10(675)! (-25)
+Ambusher07(100) ATTACKED Dummy10(650)! (-25)
+Pacifist08(100) moved UP.
+-- END ROUND 4 --
+------------------
+------------------
+------------------
+--01----04--------
+000302051006--0809
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 5 --
+Berserk00(90) ATTACKED Tracer03(90)! (-10)
+Berserk01(100) ATTACKED Tracer03(80)! (-10)
+Tracer02(75) ATTACKED Tracer03(70)! (-5)
+Tracer03(65) ATTACKED Berserk00(90)! (-10)
+Ambusher04(100) ATTACKED Dummy10(625)! (-25)
+Ambusher05(100) ATTACKED Tracer02(75)! (-15)
+Ambusher06(100) ATTACKED Dummy10(600)! (-25)
+Ambusher07(100) ATTACKED Dummy10(575)! (-25)
+Pacifist08(100) moved LEFT.
+Pacifist09(100) moved LEFT.
+-- END ROUND 5 --
+------------------
+------------------
+------------------
+--01----04--------
+0003020510060809--
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 6 --
+Berserk00(80) is STORMED! (-5)
+Berserk00(75) ATTACKED Tracer03(65)! (-10)
+Berserk01(100) ATTACKED Tracer03(55)! (-10)
+Tracer02(60) ATTACKED Tracer03(45)! (-5)
+Tracer03(40) ATTACKED Berserk00(75)! (-10)
+Ambusher04(100) ATTACKED Dummy10(550)! (-25)
+Ambusher05(100) ATTACKED Tracer02(60)! (-15)
+Ambusher06(100) ATTACKED Pacifist08(100)! (-10)
+Ambusher07(100) ATTACKED Dummy10(525)! (-25)
+-- END ROUND 6 --
+------------------
+------------------
+------------------
+--01----04--------
+0003020510060809--
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 7 --
+Berserk00(65) is STORMED! (-5)
+Berserk00(60) ATTACKED Tracer03(40)! (-10)
+Berserk01(100) ATTACKED Tracer03(30)! (-10)
+Tracer02(45) ATTACKED Tracer03(20)! (-5)
+Tracer03(15) ATTACKED Berserk00(60)! (-10)
+Ambusher04(100) ATTACKED Dummy10(500)! (-25)
+Ambusher05(100) ATTACKED Tracer02(45)! (-15)
+Ambusher06(100) ATTACKED Pacifist08(90)! (-10)
+Ambusher07(100) ATTACKED Dummy10(475)! (-25)
+-- END ROUND 7 --
+------------------
+------------------
+------------------
+--01----04--------
+0003020510060809--
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 8 --
+Berserk00(50) is STORMED! (-5)
+Berserk00(45) ATTACKED Tracer03(15)! (-10)
+Berserk01(100) ATTACKED Tracer03(5)! (-10)
+Tracer03(-5) DIED.
+Tracer02(30) ATTACKED Ambusher05(100)! (-15)
+Ambusher04(100) ATTACKED Dummy10(450)! (-25)
+Ambusher05(85) ATTACKED Tracer02(30)! (-15)
+Ambusher06(100) ATTACKED Pacifist08(80)! (-10)
+Ambusher07(100) ATTACKED Dummy10(425)! (-25)
+-- END ROUND 8 --
+------------------
+------------------
+------------------
+--01----04--------
+00--020510060809--
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 9 --
+Berserk00(45) is STORMED! (-5)
+Berserk00(40) moved RIGHT.
+Berserk01(100) ATTACKED Berserk00(40)! (-15)
+Tracer02(15) ATTACKED Berserk00(25)! (-10)
+Ambusher04(100) ATTACKED Dummy10(400)! (-25)
+Ambusher05(85) ATTACKED Tracer02(15)! (-15)
+Tracer02(0) DIED.
+Ambusher06(100) ATTACKED Pacifist08(70)! (-10)
+Ambusher07(100) ATTACKED Dummy10(375)! (-25)
+-- END ROUND 9 --
+------------------
+------------------
+------------------
+--01----04--------
+--00--0510060809--
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 10 --
+Berserk00(15) ATTACKED Berserk01(100)! (-15)
+Berserk01(85) ATTACKED Berserk00(15)! (-15)
+Berserk00(0) DIED.
+Ambusher04(100) ATTACKED Dummy10(350)! (-25)
+Ambusher05(85) ATTACKED Dummy10(325)! (-25)
+Ambusher06(100) ATTACKED Pacifist08(60)! (-10)
+Ambusher07(100) ATTACKED Dummy10(300)! (-25)
+-- END ROUND 10 --
+------------------
+------------------
+------------------
+--01----04--------
+------0510060809--
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 11 --
+Berserk01(85) is STORMED! (-10)
+Berserk01(75) moved DOWN.
+Ambusher04(100) ATTACKED Dummy10(275)! (-25)
+Ambusher05(85) ATTACKED Dummy10(250)! (-25)
+Ambusher06(100) ATTACKED Pacifist08(50)! (-10)
+Ambusher07(100) ATTACKED Dummy10(225)! (-25)
+Pacifist09(100) is STORMED! (-10)
+-- END ROUND 11 --
+------------------
+------------------
+------------------
+--------04--------
+--01--0510060809--
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 12 --
+Berserk01(75) is STORMED! (-10)
+Berserk01(65) moved RIGHT.
+Ambusher04(100) ATTACKED Dummy10(200)! (-25)
+Ambusher05(85) ATTACKED Berserk01(65)! (-20)
+Ambusher06(100) ATTACKED Pacifist08(40)! (-10)
+Ambusher07(100) ATTACKED Dummy10(175)! (-25)
+Pacifist09(90) is STORMED! (-10)
+-- END ROUND 12 --
+------------------
+------------------
+------------------
+--------04--------
+----010510060809--
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 13 --
+Berserk01(45) ATTACKED Ambusher05(85)! (-20)
+Ambusher04(100) ATTACKED Dummy10(150)! (-25)
+Ambusher05(65) ATTACKED Berserk01(45)! (-20)
+Ambusher06(100) ATTACKED Pacifist08(30)! (-10)
+Ambusher07(100) ATTACKED Dummy10(125)! (-25)
+Pacifist09(80) is STORMED! (-10)
+-- END ROUND 13 --
+------------------
+------------------
+------------------
+--------04--------
+----010510060809--
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 14 --
+Berserk01(25) ATTACKED Ambusher05(65)! (-20)
+Ambusher04(100) ATTACKED Dummy10(100)! (-25)
+Ambusher05(45) ATTACKED Berserk01(25)! (-20)
+Ambusher06(100) ATTACKED Pacifist08(20)! (-10)
+Ambusher07(100) ATTACKED Dummy10(75)! (-25)
+Pacifist09(70) is STORMED! (-10)
+-- END ROUND 14 --
+------------------
+------------------
+------------------
+--------04--------
+----010510060809--
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 15 --
+Berserk01(5) ATTACKED Ambusher05(45)! (-20)
+Ambusher04(100) ATTACKED Dummy10(50)! (-25)
+Ambusher05(25) ATTACKED Berserk01(5)! (-20)
+Berserk01(-15) DIED.
+Ambusher06(100) ATTACKED Pacifist08(10)! (-10)
+Pacifist08(0) DIED.
+Ambusher07(100) ATTACKED Dummy10(25)! (-25)
+Dummy10(0) DIED.
+Pacifist09(60) is STORMED! (-10)
+Pacifist09(50) moved LEFT.
+-- END ROUND 15 --
+------------------
+------------------
+------------------
+--------04--------
+------05HH0609----
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 16 --
+Ambusher06(100) ATTACKED Pacifist09(50)! (-10)
+Pacifist09(40) is STORMED! (-15)
+-- END ROUND 16 --
+------------------
+------------------
+------------------
+--------04--------
+------05HH0609----
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 17 --
+Ambusher06(100) ATTACKED Pacifist09(25)! (-10)
+Pacifist09(15) is STORMED! (-15)
+Pacifist09(0) DIED.
+-- END ROUND 17 --
+------------------
+------------------
+------------------
+--------04--------
+------05HH06------
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 18 --
+-- END ROUND 18 --
+------------------
+------------------
+------------------
+--------04--------
+------05HH06------
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 19 --
+-- END ROUND 19 --
+------------------
+------------------
+------------------
+--------04--------
+------05HH06------
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 20 --
+-- END ROUND 20 --
+------------------
+------------------
+------------------
+--------04--------
+------05HH06------
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 21 --
+Ambusher04(100) is STORMED! (-20)
+Ambusher05(25) is STORMED! (-20)
+Ambusher06(100) is STORMED! (-20)
+Ambusher07(100) is STORMED! (-20)
+-- END ROUND 21 --
+------------------
+------------------
+------------------
+--------04--------
+------05HH06------
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 22 --
+Ambusher04(80) is STORMED! (-20)
+Ambusher05(5) is STORMED! (-20)
+Ambusher05(-15) DIED.
+Ambusher06(80) is STORMED! (-20)
+Ambusher07(80) is STORMED! (-20)
+-- END ROUND 22 --
+------------------
+------------------
+------------------
+--------04--------
+--------HH06------
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 23 --
+Ambusher04(60) is STORMED! (-20)
+Ambusher06(60) is STORMED! (-20)
+Ambusher07(60) is STORMED! (-20)
+-- END ROUND 23 --
+------------------
+------------------
+------------------
+--------04--------
+--------HH06------
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 24 --
+Ambusher04(40) is STORMED! (-20)
+Ambusher06(40) is STORMED! (-20)
+Ambusher07(40) is STORMED! (-20)
+-- END ROUND 24 --
+------------------
+------------------
+------------------
+--------04--------
+--------HH06------
+--------07--------
+------------------
+------------------
+------------------
+-- START ROUND 25 --
+Ambusher04(20) is STORMED! (-20)
+Ambusher04(0) DIED.
+Ambusher06(20) is STORMED! (-20)
+Ambusher06(0) DIED.
+Ambusher07(20) is STORMED! (-20)
+Ambusher07(0) DIED.
+-- END ROUND 25 --
+------------------
+------------------
+------------------
+------------------
+--------HH--------
+------------------
+------------------
+------------------
+------------------
+No one wins...
